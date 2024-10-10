@@ -1,0 +1,207 @@
+<http://www.wikidata.org/entity/Q644371>	international airport	237389
+<http://www.wikidata.org/entity/Q5>	human	225661
+<http://www.wikidata.org/entity/Q183>	Germany	4991
+<http://www.wikidata.org/entity/Q6581072>	female	4942
+<http://www.wikidata.org/entity/Q18939491>	diarist	3293
+<http://www.wikidata.org/entity/Q571>	book	2407
+<http://www.wikidata.org/entity/Q30>	United States of America	2219
+<http://www.wikidata.org/entity/Q146>	cat	1996
+<http://www.wikidata.org/entity/Q11424>	film	1858
+<http://www.wikidata.org/entity/Q142>	France	1857
+<http://www.wikidata.org/entity/Q33999>	actor	1660
+<http://www.wikidata.org/entity/Q180402>	Yosemite National Park	1526
+<http://www.wikidata.org/entity/Q17>	Japan	1436
+<http://www.wikidata.org/entity/Q145>	United Kingdom	1407
+<http://www.wikidata.org/entity/Q6256>	country	1400
+<http://www.wikidata.org/entity/Q159>	Russia	1376
+<http://www.wikidata.org/entity/Q889>	Afghanistan	1306
+<http://www.wikidata.org/entity/Q7187>	gene	1289
+<http://www.wikidata.org/entity/Q801>	Israel	1270
+<http://www.wikidata.org/entity/Q148>	People's Republic of China	1264
+<http://www.wikidata.org/entity/Q423>	North Korea	1240
+<http://www.wikidata.org/entity/Q36678>	West Bank	1215
+<http://www.wikidata.org/entity/Q362>	World War II	1195
+<http://www.wikidata.org/entity/Q884>	South Korea	1193
+<http://www.wikidata.org/entity/Q64>	Berlin	1186
+<http://www.wikidata.org/entity/Q6581097>	male	1177
+<http://www.wikidata.org/entity/Q800>	Costa Rica	1167
+<http://www.wikidata.org/entity/Q408>	Australia	1167
+<http://www.wikidata.org/entity/Q1033>	Nigeria	1088
+<http://www.wikidata.org/entity/Q1339>	Johann Sebastian Bach	1081
+<http://www.wikidata.org/entity/Q11900058>	explorer	1039
+<http://www.wikidata.org/entity/Q956>	Beijing	1031
+<http://www.wikidata.org/entity/Q60>	New York City	1003
+<http://www.wikidata.org/entity/Q812>	Florida	1001
+<http://www.wikidata.org/entity/Q130469>	Mazar-i-Sharif	1000
+<http://www.wikidata.org/entity/Q2213391>	Croydon	981
+<http://www.wikidata.org/entity/Q515>	city	970
+<http://www.wikidata.org/entity/Q155>	Brazil	962
+<http://www.wikidata.org/entity/Q22686>	Donald Trump	915
+<http://www.wikidata.org/entity/Q3305213>	painting	914
+<http://www.wikidata.org/entity/Q158119>	Ramallah	908
+<http://www.wikidata.org/entity/Q201190>	Palestinians	902
+<http://www.wikidata.org/entity/Q5083>	Seattle	883
+<http://www.wikidata.org/entity/Q804>	Panama	876
+<http://www.wikidata.org/entity/Q82594>	computer scientist	867
+<http://www.wikidata.org/entity/Q22654>	New York	862
+<http://www.wikidata.org/entity/Q8087>	geometry	856
+<http://www.wikidata.org/entity/Q1490>	Tokyo	851
+<http://www.wikidata.org/entity/Q2624848>	Las Vegas Valley	851
+<http://www.wikidata.org/entity/Q5095348>	Chibok	837
+<http://www.wikidata.org/entity/Q65>	Los Angeles	832
+<http://www.wikidata.org/entity/Q18808>	Pyongyang	827
+<http://www.wikidata.org/entity/Q84>	London	815
+<http://www.wikidata.org/entity/Q12439>	Detroit	810
+<http://www.wikidata.org/entity/Q8646>	Hong Kong	806
+<http://www.wikidata.org/entity/Q2>	Earth	795
+<http://www.wikidata.org/entity/Q365>	Cologne	794
+<http://www.wikidata.org/entity/Q7184>	North Atlantic Treaty Organization	780
+<http://www.wikidata.org/entity/Q8684>	Seoul	779
+<http://www.wikidata.org/entity/Q33959>	Nice	778
+<http://www.wikidata.org/entity/Q191477>	Pittsburgh Steelers	778
+<http://www.wikidata.org/entity/Q3545312>	Punta Islita Airport	768
+<http://www.wikidata.org/entity/Q38>	Italy	752
+<http://www.wikidata.org/entity/Q82955>	politician	739
+<http://www.wikidata.org/entity/Q262>	Algeria	737
+<http://www.wikidata.org/entity/Q246782>	Chicago Cubs	737
+<http://www.wikidata.org/entity/Q56226>	Kim Jong-un	730
+<http://www.wikidata.org/entity/Q34>	Sweden	725
+<http://www.wikidata.org/entity/Q916>	Angola	720
+<http://www.wikidata.org/entity/Q1588>	Louisiana	719
+<http://www.wikidata.org/entity/Q130879>	Reuters	719
+<http://www.wikidata.org/entity/Q212372>	Boko Haram	719
+<http://www.wikidata.org/entity/Q189>	Iceland	718
+<http://www.wikidata.org/entity/Q21191270>	television series episode	715
+<http://www.wikidata.org/entity/Q90>	Paris	715
+<http://www.wikidata.org/entity/Q2300959>	Scarsdale	710
+<http://www.wikidata.org/entity/Q3884>	Amazon	709
+<http://www.wikidata.org/entity/Q1400>	Pennsylvania	707
+<http://www.wikidata.org/entity/Q1865480>	Bastille	707
+<http://www.wikidata.org/entity/Q3224>	New South Wales	702
+<http://www.wikidata.org/entity/Q60670>	polar region	700
+<http://www.wikidata.org/entity/Q1640995>	polar exploration	699
+<http://www.wikidata.org/entity/Q8337>	Harry Potter	698
+<http://www.wikidata.org/entity/Q58584>	Baoding	692
+<http://www.wikidata.org/entity/Q16555>	Houston	692
+<http://www.wikidata.org/entity/Q163820>	Silicon Valley	691
+<http://www.wikidata.org/entity/Q234061>	Erie	677
+<http://www.wikidata.org/entity/Q95>	Google	670
+<http://www.wikidata.org/entity/Q1860>	English	668
+<http://www.wikidata.org/entity/Q9673>	Lewis Hamilton	667
+<http://www.wikidata.org/entity/Q193701>	SpaceX	666
+<http://www.wikidata.org/entity/Q1368043>	Mandalay Bay	661
+<http://www.wikidata.org/entity/Q37100>	Auckland	660
+<http://www.wikidata.org/entity/Q27381>	North Africa	659
+<http://www.wikidata.org/entity/Q16553>	San Jose	659
+<http://www.wikidata.org/entity/Q42418>	Taliban	649
+<http://www.wikidata.org/entity/Q664>	New Zealand	645
+<http://www.wikidata.org/entity/Q988156>	Slidell	643
+<http://www.wikidata.org/entity/Q690026>	Guanacaste Province	632
+<http://www.wikidata.org/entity/Q43196>	Cincinnati	630
+<http://www.wikidata.org/entity/Q23556>	Atlanta	630
+<http://www.wikidata.org/entity/Q1065>	United Nations	630
+<http://www.wikidata.org/entity/Q37470>	United Nations Security Council	628
+<http://www.wikidata.org/entity/Q76>	Barack Obama	628
+<http://www.wikidata.org/entity/Q567>	Angela Merkel	626
+<http://www.wikidata.org/entity/Q980781>	Nature Air	622
+<http://www.wikidata.org/entity/Q6408963>	Kim Jong	622
+<http://www.wikidata.org/entity/Q46>	Europe	620
+<http://www.wikidata.org/entity/Q209330>	Instagram	614
+<http://www.wikidata.org/entity/Q16557>	Dallas	614
+<http://www.wikidata.org/entity/Q19595382>	Wikidata property for authority control for people	601
+<http://www.wikidata.org/entity/Q43723>	Benjamin Netanyahu	597
+<http://www.wikidata.org/entity/Q187009>	Likud	593
+<http://www.wikidata.org/entity/Q313>	Venus	592
+<http://www.wikidata.org/entity/Q5384453>	Equifax	590
+<http://www.wikidata.org/entity/Q7416357>	Sandilands	588
+<http://www.wikidata.org/entity/Q244146>	Clearwater	583
+<http://www.wikidata.org/entity/Q759>	New Hampshire	573
+<http://www.wikidata.org/entity/Q28>	Hungary	571
+<http://www.wikidata.org/entity/Q1439>	Texas	570
+<http://www.wikidata.org/entity/Q167346>	botanical garden	568
+<http://www.wikidata.org/entity/Q8219>	Uta Frith	566
+<http://www.wikidata.org/entity/Q414>	Argentina	565
+<http://www.wikidata.org/entity/Q18389>	New England	559
+<http://www.wikidata.org/entity/Q7005189>	New Addington	559
+<http://www.wikidata.org/entity/Q483134>	Korean Peninsula	556
+<http://www.wikidata.org/entity/Q782>	Hawaii	555
+<http://www.wikidata.org/entity/Q36180>	writer	554
+<http://www.wikidata.org/entity/Q82652>	Felipe Massa	553
+<http://www.wikidata.org/entity/Q108155>	Kunduz	552
+<http://www.wikidata.org/entity/Q157>	François Hollande	550
+<http://www.wikidata.org/entity/Q7122733>	Pacific Theatre	548
+<http://www.wikidata.org/entity/Q83922>	Arianism	547
+<http://www.wikidata.org/entity/Q9035311>	Mossack Fonseca	547
+<http://www.wikidata.org/entity/Q193326>	Goldman Sachs	545
+<http://www.wikidata.org/entity/Q258>	South Africa	544
+<http://www.wikidata.org/entity/Q1397>	Ohio	543
+<http://www.wikidata.org/entity/Q43432>	Justin Timberlake	543
+<http://www.wikidata.org/entity/Q3787>	Abuja	539
+<http://www.wikidata.org/entity/Q8731>	Los Angeles International Airport	537
+<http://www.wikidata.org/entity/Q1227>	Nevada	535
+<http://www.wikidata.org/entity/Q1215884>	National Football League	535
+<http://www.wikidata.org/entity/Q104028>	Judea	532
+<http://www.wikidata.org/entity/Q1294629>	Samaria	532
+<http://www.wikidata.org/entity/Q62>	San Francisco	528
+<http://www.wikidata.org/entity/Q544847>	Qualcomm Inc.	524
+<http://www.wikidata.org/entity/Q7747>	Vladimir Putin	519
+<http://www.wikidata.org/entity/Q188920>	Delta Air Lines	519
+<http://www.wikidata.org/entity/Q668>	India	518
+<http://www.wikidata.org/entity/Q131723>	bitcoin	517
+<http://www.wikidata.org/entity/Q4691173>	Agamenticus	516
+<http://www.wikidata.org/entity/Q390141>	York County	516
+<http://www.wikidata.org/entity/Q25271>	International Space Station	514
+<http://www.wikidata.org/entity/Q2283>	Microsoft	514
+<http://www.wikidata.org/entity/Q1384661>	Jesse Louis Lasky	513
+<http://www.wikidata.org/entity/Q1165355>	Pacific Fleet	512
+<http://www.wikidata.org/entity/Q229013>	Sarah Silverman	512
+<http://www.wikidata.org/entity/Q326804>	Korean Central News Agency	511
+<http://www.wikidata.org/entity/Q99>	California	511
+<http://www.wikidata.org/entity/Q1093627>	Falcon Heavy	510
+<http://www.wikidata.org/entity/Q405>	Moon	508
+<http://www.wikidata.org/entity/Q131335>	Sioux Falls	507
+<http://www.wikidata.org/entity/Q204284>	All Nippon Airways	506
+<http://www.wikidata.org/entity/Q16>	Canada	502
+<http://www.wikidata.org/entity/Q54429>	2006 Brazilian Grand Prix	500
+<http://www.wikidata.org/entity/Q171387>	Autódromo José Carlos Pace	499
+<http://www.wikidata.org/entity/Q484188>	serial killer	497
+<http://www.wikidata.org/entity/Q298276>	Michael Sheen	497
+<http://www.wikidata.org/entity/Q355>	Facebook	494
+<http://www.wikidata.org/entity/Q13442814>	scholarly article	493
+<http://www.wikidata.org/entity/Q223511>	Cincinnati Bengals	493
+<http://www.wikidata.org/entity/Q7710240>	Thane Maynard	489
+<http://www.wikidata.org/entity/Q21208>	Hebei	488
+<http://www.wikidata.org/entity/Q324523>	Las Vegas Raiders	486
+<http://www.wikidata.org/entity/Q5111202>	Chrissy Teigen	486
+<http://www.wikidata.org/entity/Q12585>	Latin America	484
+<http://www.wikidata.org/entity/Q125017>	Uma Thurman	482
+<http://www.wikidata.org/entity/Q32396>	American Airlines	481
+<http://www.wikidata.org/entity/Q34006>	Hollywood	478
+<http://www.wikidata.org/entity/Q173663>	Red Bull Racing	478
+<http://www.wikidata.org/entity/Q4830453>	business	477
+<http://www.wikidata.org/entity/Q4790122>	Ari Shapiro	473
+<http://www.wikidata.org/entity/Q671510>	NPR	473
+<http://www.wikidata.org/entity/Q18094>	Honolulu	470
+<http://www.wikidata.org/entity/Q948>	Tunisia	470
+<http://www.wikidata.org/entity/Q6867439>	Ministry of Social Security	469
+<http://www.wikidata.org/entity/Q1146109>	Metropolitan Transportation Authority	467
+<http://www.wikidata.org/entity/Q134768>	cocktail	465
+<http://www.wikidata.org/entity/Q23548>	NASA	463
+<http://www.wikidata.org/entity/Q48821>	Kennedy Space Center	461
+<http://www.wikidata.org/entity/Q1141267>	Thomson Reuters	457
+<http://www.wikidata.org/entity/Q42>	Douglas Adams	457
+<http://www.wikidata.org/entity/Q875556>	Israelis	451
+<http://www.wikidata.org/entity/Q96>	Mexico	448
+<http://www.wikidata.org/entity/Q7323233>	Rich Dauer	447
+<http://www.wikidata.org/entity/Q918>	Twitter	447
+<http://www.wikidata.org/entity/Q158870>	Süddeutsche Zeitung	446
+<http://www.wikidata.org/entity/Q555925>	Broadcom	445
+<http://www.wikidata.org/entity/Q4204060>	Islamic state	445
+<http://www.wikidata.org/entity/Q782911>	Evangelical Church of Czech Brethren	443
+<http://www.wikidata.org/entity/Q317521>	Elon Musk	442
+<http://www.wikidata.org/entity/Q139677>	operon	442
+<http://www.wikidata.org/entity/Q3772>	Quentin Tarantino	441
+<http://www.wikidata.org/entity/Q1968>	Formula One	440
+<http://www.wikidata.org/entity/Q724>	Maine	432
+<http://www.wikidata.org/entity/Q215380>	musical group	432
+<http://www.wikidata.org/entity/Q267902>	James Mattis	431

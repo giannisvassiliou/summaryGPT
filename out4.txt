@@ -1,0 +1,188 @@
+<http://www.wikidata.org/entity/Q644371>	international airport	225464
+<http://www.wikidata.org/entity/Q5>	human	10224
+<http://www.wikidata.org/entity/Q11424>	film	7605
+<http://www.wikidata.org/entity/Q79007>	street	6502
+<http://www.wikidata.org/entity/Q213>	Czech Republic	6456
+<http://www.wikidata.org/entity/Q11081>	Alzheimer's disease	4517
+<http://www.wikidata.org/entity/Q6256>	country	2619
+<http://www.wikidata.org/entity/Q183>	Germany	1913
+<http://www.wikidata.org/entity/Q6581072>	female	1722
+<http://www.wikidata.org/entity/Q146>	cat	1613
+<http://www.wikidata.org/entity/Q13691604>	squatter's house	1091
+<http://www.wikidata.org/entity/Q9899>	Amsterdam	1030
+<http://www.wikidata.org/entity/Q142>	France	938
+<http://www.wikidata.org/entity/Q215380>	musical group	937
+<http://www.wikidata.org/entity/Q12136>	disease	910
+<http://www.wikidata.org/entity/Q173387>	grave	839
+<http://www.wikidata.org/entity/Q571>	book	771
+<http://www.wikidata.org/entity/Q3305213>	painting	669
+<http://www.wikidata.org/entity/Q31>	Belgium	648
+<http://www.wikidata.org/entity/Q6581097>	male	638
+<http://www.wikidata.org/entity/Q11085>	Parkinson's disease	620
+<http://www.wikidata.org/entity/Q83042>	neurology	617
+<http://www.wikidata.org/entity/Q55488>	railway station	567
+<http://www.wikidata.org/entity/Q1339>	Johann Sebastian Bach	565
+<http://www.wikidata.org/entity/Q8219>	Uta Frith	562
+<http://www.wikidata.org/entity/Q30>	United States of America	528
+<http://www.wikidata.org/entity/Q3863>	asteroid	512
+<http://www.wikidata.org/entity/Q482994>	album	501
+<http://www.wikidata.org/entity/Q13442814>	scholarly article	485
+<http://www.wikidata.org/entity/Q15893266>	former entity	474
+<http://www.wikidata.org/entity/Q34>	Sweden	471
+<http://www.wikidata.org/entity/Q1989839>	kirch	470
+<http://www.wikidata.org/entity/Q782911>	Evangelical Church of Czech Brethren	468
+<http://www.wikidata.org/entity/Q937857>	association football player	464
+<http://www.wikidata.org/entity/Q20895241>	Egon Willighagen	456
+<http://www.wikidata.org/entity/Q188451>	music genre	442
+<http://www.wikidata.org/entity/Q639669>	musician	437
+<http://www.wikidata.org/entity/Q262166>	municipality of Germany	407
+<http://www.wikidata.org/entity/Q19595382>	Wikidata property for authority control for people	392
+<http://www.wikidata.org/entity/Q39715>	lighthouse	386
+<http://www.wikidata.org/entity/Q42309863>	Oliver Creighton	368
+<http://www.wikidata.org/entity/Q36180>	writer	360
+<http://www.wikidata.org/entity/Q145>	United Kingdom	357
+<http://www.wikidata.org/entity/Q20980928>	Finn Årup Nielsen	349
+<http://www.wikidata.org/entity/Q1248784>	airport	344
+<http://www.wikidata.org/entity/Q515>	city	338
+<http://www.wikidata.org/entity/Q82955>	politician	318
+<http://www.wikidata.org/entity/Q4830453>	business	311
+<http://www.wikidata.org/entity/Q747074>	comune of Italy	298
+<http://www.wikidata.org/entity/Q34770>	language	295
+<http://www.wikidata.org/entity/Q3624078>	sovereign state	295
+<http://www.wikidata.org/entity/Q1234698>	Avebury	292
+<http://www.wikidata.org/entity/Q33999>	Actor	291
+<http://www.wikidata.org/entity/Q4167836>	Wikimedia category	289
+<http://www.wikidata.org/entity/Q7187>	gene	282
+<http://www.wikidata.org/entity/Q33>	Finland	280
+<http://www.wikidata.org/entity/Q202864>	Zika virus	279
+<http://www.wikidata.org/entity/Q159>	Russia	277
+<http://www.wikidata.org/entity/Q76>	Barack Obama	274
+<http://www.wikidata.org/entity/Q333402>	Alfred Korzybski	269
+<http://www.wikidata.org/entity/Q36>	Poland	264
+<http://www.wikidata.org/entity/Q148>	People's Republic of China	263
+<http://www.wikidata.org/entity/Q134556>	single	261
+<http://www.wikidata.org/entity/Q38>	Italy	252
+<http://www.wikidata.org/entity/Q17>	Japan	249
+<http://www.wikidata.org/entity/Q61816>	Le Crotoy	245
+<http://www.wikidata.org/entity/Q484170>	commune of France	244
+<http://www.wikidata.org/entity/Q191954>	President of the French Republic	242
+<http://www.wikidata.org/entity/Q11344>	chemical element	242
+<http://www.wikidata.org/entity/Q720>	Genghis Khan	239
+<http://www.wikidata.org/entity/Q131755>	bipolar disorder	237
+<http://www.wikidata.org/entity/Q26703203>	Stolperstein	223
+<http://www.wikidata.org/entity/Q3914>	school	223
+<http://www.wikidata.org/entity/Q889>	Afghanistan	221
+<http://www.wikidata.org/entity/Q90>	Paris	202
+<http://www.wikidata.org/entity/Q173950>	art dealer	198
+<http://www.wikidata.org/entity/Q3014296>	motorcycle racer	197
+<http://www.wikidata.org/entity/Q11696>	President of the United States	196
+<http://www.wikidata.org/entity/Q38848>	heavy metal	195
+<http://www.wikidata.org/entity/Q221074>	Bud Spencer	193
+<http://www.wikidata.org/entity/Q18607856>	Member of the National Assembly of Zambia	190
+<http://www.wikidata.org/entity/Q5119>	Capital city	190
+<http://www.wikidata.org/entity/Q49757>	poet	189
+<http://www.wikidata.org/entity/Q28781198>	Black Lunch Table	187
+<http://www.wikidata.org/entity/Q46>	Europe	185
+<http://www.wikidata.org/entity/Q839954>	archaeological site	183
+<http://www.wikidata.org/entity/Q7561>	snow	183
+<http://www.wikidata.org/entity/Q634>	planet	182
+<http://www.wikidata.org/entity/Q29>	Spain	180
+<http://www.wikidata.org/entity/Q103824>	hematology	179
+<http://www.wikidata.org/entity/Q372436>	statesperson	178
+<http://www.wikidata.org/entity/Q668>	India	177
+<http://www.wikidata.org/entity/Q1969240>	list of national park of Thailand	176
+<http://www.wikidata.org/entity/Q11173>	chemical compound	173
+<http://www.wikidata.org/entity/Q42687894>	Richard Nevell	171
+<http://www.wikidata.org/entity/Q2934>	goat	168
+<http://www.wikidata.org/entity/Q4022>	river	168
+<http://www.wikidata.org/entity/Q8274>	manga	168
+<http://www.wikidata.org/entity/Q12202>	stroke	168
+<http://www.wikidata.org/entity/Q4911143>	Bill Thompson	166
+<http://www.wikidata.org/entity/Q5582862>	Cuzco	165
+<http://www.wikidata.org/entity/Q64>	Berlin	164
+<http://www.wikidata.org/entity/Q315>	language	162
+<http://www.wikidata.org/entity/Q5398426>	television series	161
+<http://www.wikidata.org/entity/Q3918>	university	161
+<http://www.wikidata.org/entity/Q12156>	malaria	159
+<http://www.wikidata.org/entity/Q39>	Switzerland	159
+<http://www.wikidata.org/entity/Q70208>	municipality of Switzerland	157
+<http://www.wikidata.org/entity/Q5153359>	municipality of the Czech Republic	154
+<http://www.wikidata.org/entity/Q6979593>	national association football team	153
+<http://www.wikidata.org/entity/Q5741069>	rock group	151
+<http://www.wikidata.org/entity/Q869>	Thailand	151
+<http://www.wikidata.org/entity/Q214>	Slovakia	149
+<http://www.wikidata.org/entity/Q476028>	association football club	147
+<http://www.wikidata.org/entity/Q211>	Latvia	145
+<http://www.wikidata.org/entity/Q483501>	artist	143
+<http://www.wikidata.org/entity/Q1028181>	painter	143
+<http://www.wikidata.org/entity/Q602358>	Brockhaus and Efron Encyclopedic Dictionary	143
+<http://www.wikidata.org/entity/Q41>	Greece	143
+<http://www.wikidata.org/entity/Q964035>	Computer History Museum	141
+<http://www.wikidata.org/entity/Q7432>	species	141
+<http://www.wikidata.org/entity/Q27349>	dentist	137
+<http://www.wikidata.org/entity/Q205892>	calendar date	137
+<http://www.wikidata.org/entity/Q45947229>	Tom Longboat Awards	137
+<http://www.wikidata.org/entity/Q42>	Douglas Adams	137
+<http://www.wikidata.org/entity/Q163087>	Michael Polanyi	132
+<http://www.wikidata.org/entity/Q1032372>	hackerspace	131
+<http://www.wikidata.org/entity/Q16707842>	Member of Parliament	129
+<http://www.wikidata.org/entity/Q1234713>	theologian	126
+<http://www.wikidata.org/entity/Q16521>	taxon	126
+<http://www.wikidata.org/entity/Q414>	Argentina	125
+<http://www.wikidata.org/entity/Q11631>	astronaut	124
+<http://www.wikidata.org/entity/Q16970>	church building	122
+<http://www.wikidata.org/entity/Q12130>	Brittany	122
+<http://www.wikidata.org/entity/Q18123741>	infectious disease	119
+<http://www.wikidata.org/entity/Q36834>	composer	118
+<http://www.wikidata.org/entity/Q6465>	department of France	117
+<http://www.wikidata.org/entity/Q14839548>	minor locality in Sweden	116
+<http://www.wikidata.org/entity/Q8277>	multiple sclerosis	114
+<http://www.wikidata.org/entity/Q45380990>	12th National Assembly of Zambia	114
+<http://www.wikidata.org/entity/Q19833835>	Wikidata property to identify substances	113
+<http://www.wikidata.org/entity/Q16110>	region of Italy	113
+<http://www.wikidata.org/entity/Q160302>	University of Edinburgh	112
+<http://www.wikidata.org/entity/Q2074737>	municipality of Spain	111
+<http://www.wikidata.org/entity/Q144>	dog	111
+<http://www.wikidata.org/entity/Q191>	Estonia	110
+<http://www.wikidata.org/entity/Q20>	Norway	109
+<http://www.wikidata.org/entity/Q42310659>	Member of the 5th National Assembly for Wales	108
+<http://www.wikidata.org/entity/Q3551432>	Laurentian University	107
+<http://www.wikidata.org/entity/Q15284>	municipality	107
+<http://www.wikidata.org/entity/Q8502>	mountain	107
+<http://www.wikidata.org/entity/Q5415>	My Little Pony: Friendship Is Magic	107
+<http://www.wikidata.org/entity/Q45>	Portugal	107
+<http://www.wikidata.org/entity/Q13414980>	Australian rules football player	106
+<http://www.wikidata.org/entity/Q847017>	sports club	106
+<http://www.wikidata.org/entity/Q7372078>	rowing club	105
+<http://www.wikidata.org/entity/Q68>	computer	105
+<http://www.wikidata.org/entity/Q253414>	FIFA	104
+<http://www.wikidata.org/entity/Q167898>	tree of the year	103
+<http://www.wikidata.org/entity/Q7389960>	SFI Coding and Classification System	102
+<http://www.wikidata.org/entity/Q92614>	Douglas Engelbart	102
+<http://www.wikidata.org/entity/Q37693>	Paul Gauguin	101
+<http://www.wikidata.org/entity/Q21851559>	BRAF V600E	101
+<http://www.wikidata.org/entity/Q1188574>	Major Historical and Cultural Site Protected at the National Level	101
+<http://www.wikidata.org/entity/Q811534>	remarkable tree	100
+<http://www.wikidata.org/entity/Q9259>	UNESCO World Heritage Site	99
+<http://www.wikidata.org/entity/Q4162197>	Fornvännen	99
+<http://www.wikidata.org/entity/Q17451>	typeface	99
+<http://www.wikidata.org/entity/Q28>	Hungary	99
+<http://www.wikidata.org/entity/Q806724>	Bankcard-Servicenetz	98
+<http://www.wikidata.org/entity/Q1568>	Hindi	98
+<http://www.wikidata.org/entity/Q35657>	U.S. state	98
+<http://www.wikidata.org/entity/Q1637051>	Mammalian Species	96
+<http://www.wikidata.org/entity/Q593644>	chemist	96
+<http://www.wikidata.org/entity/Q955464>	parson	96
+<http://www.wikidata.org/entity/Q5107>	continent	96
+<http://www.wikidata.org/entity/Q139677>	operon	95
+<http://www.wikidata.org/entity/Q57487>	Maria Barbara Bach	95
+<http://www.wikidata.org/entity/Q170790>	mathematician	94
+<http://www.wikidata.org/entity/Q43229>	organization	94
+<http://www.wikidata.org/entity/Q486972>	human settlement	94
+<http://www.wikidata.org/entity/Q5389>	Olympic Games	94
+<http://www.wikidata.org/entity/Q42415681>	Michael Fradley	92
+<http://www.wikidata.org/entity/Q307>	Galileo Galilei	92
+<http://www.wikidata.org/entity/Q815819>	atrial fibrillation	92
+<http://www.wikidata.org/entity/Q178561>	battle	91
+<http://www.wikidata.org/entity/Q177220>	singer	91
+<http://www.wikidata.org/entity/Q131669>	Linux distribution	90
