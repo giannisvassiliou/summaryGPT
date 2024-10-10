@@ -2,7 +2,6 @@ import openai
 dict={}
 # Set up the OpenAI API client
 openai.api_key = ""
-#openai.api_key = "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"
 # Set up the model and prompt
 model_engine = "text-davinci-003"
 #model_engine = "text-curie-001"
