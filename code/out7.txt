@@ -1,0 +1,196 @@
+<http://www.wikidata.org/entity/Q5>	human	253527
+<http://www.wikidata.org/entity/Q644371>	international airport	209132
+<http://www.wikidata.org/entity/Q45>	Portugal	7537
+<http://www.wikidata.org/entity/Q11900058>	explorer	7493
+<http://www.wikidata.org/entity/Q183>	Germany	7077
+<http://www.wikidata.org/entity/Q205375>	inventor	4489
+<http://www.wikidata.org/entity/Q9899>	Amsterdam	4135
+<http://www.wikidata.org/entity/Q6581072>	female	3904
+<http://www.wikidata.org/entity/Q11631>	astronaut	3426
+<http://www.wikidata.org/entity/Q13423495>	mayor of Amsterdam	3331
+<http://www.wikidata.org/entity/Q178561>	battle	3095
+<http://www.wikidata.org/entity/Q17167>	Roman Republic	2984
+<http://www.wikidata.org/entity/Q252>	Indonesia	2334
+<http://www.wikidata.org/entity/Q25956>	space station	2183
+<http://www.wikidata.org/entity/Q185217>	dairy product	1830
+<http://www.wikidata.org/entity/Q928830>	metro station	1786
+<http://www.wikidata.org/entity/Q146>	cat	1779
+<http://www.wikidata.org/entity/Q22698>	park	1639
+<http://www.wikidata.org/entity/Q593644>	chemist	1395
+<http://www.wikidata.org/entity/Q6256>	country	1235
+<http://www.wikidata.org/entity/Q11424>	film	1159
+<http://www.wikidata.org/entity/Q1339195>	station building	1158
+<http://www.wikidata.org/entity/Q21191270>	television series episode	1036
+<http://www.wikidata.org/entity/Q515>	city	971
+<http://www.wikidata.org/entity/Q142>	France	929
+<http://www.wikidata.org/entity/Q2632776>	gluten-free diet	853
+<http://www.wikidata.org/entity/Q36180>	writer	820
+<http://www.wikidata.org/entity/Q134556>	single	818
+<http://www.wikidata.org/entity/Q571>	book	797
+<http://www.wikidata.org/entity/Q937857>	association football player	793
+<http://www.wikidata.org/entity/Q9143>	programming language	745
+<http://www.wikidata.org/entity/Q3305213>	painting	728
+<http://www.wikidata.org/entity/Q241595>	lecithin	700
+<http://www.wikidata.org/entity/Q29>	Spain	690
+<http://www.wikidata.org/entity/Q16970>	church building	689
+<http://www.wikidata.org/entity/Q1339>	Johann Sebastian Bach	662
+<http://www.wikidata.org/entity/Q727>	Amsterdam	661
+<http://www.wikidata.org/entity/Q3802>	Hanau	631
+<http://www.wikidata.org/entity/Q47345468>	tennis tournament edition	631
+<http://www.wikidata.org/entity/Q32815>	mosque	627
+<http://www.wikidata.org/entity/Q7187>	gene	619
+<http://www.wikidata.org/entity/Q44613>	monastery	613
+<http://www.wikidata.org/entity/Q49757>	poet	596
+<http://www.wikidata.org/entity/Q193521>	titanium dioxide	590
+<http://www.wikidata.org/entity/Q697295>	Shrine	581
+<http://www.wikidata.org/entity/Q44539>	temple	581
+<http://www.wikidata.org/entity/Q159683>	citric acid	568
+<http://www.wikidata.org/entity/Q36>	Poland	564
+<http://www.wikidata.org/entity/Q1555991>	Gustav Hoch	562
+<http://www.wikidata.org/entity/Q19595382>	Wikidata property for authority control for people	560
+<http://www.wikidata.org/entity/Q13414980>	Australian rules football player	559
+<http://www.wikidata.org/entity/Q30>	United States of America	538
+<http://www.wikidata.org/entity/Q6581097>	male	535
+<http://www.wikidata.org/entity/Q150>	French	519
+<http://www.wikidata.org/entity/Q145>	United Kingdom	510
+<http://www.wikidata.org/entity/Q82955>	politician	507
+<http://www.wikidata.org/entity/Q177220>	singer	499
+<http://www.wikidata.org/entity/Q416711>	mono- and diglycerides of fatty acids	491
+<http://www.wikidata.org/entity/Q482980>	Author	478
+<http://www.wikidata.org/entity/Q8219>	Uta Frith	473
+<http://www.wikidata.org/entity/Q1052281>	trans woman	448
+<http://www.wikidata.org/entity/Q2449503>	trans man	446
+<http://www.wikidata.org/entity/Q1097630>	intersex	440
+<http://www.wikidata.org/entity/Q1473289>	Middle French	438
+<http://www.wikidata.org/entity/Q13442814>	scholarly article	437
+<http://www.wikidata.org/entity/Q215380>	musical group	431
+<http://www.wikidata.org/entity/Q380778>	organic food	431
+<http://www.wikidata.org/entity/Q13317>	yogurt	427
+<http://www.wikidata.org/entity/Q190214>	The Lord of the Rings trilogy	417
+<http://www.wikidata.org/entity/Q64>	Berlin	413
+<http://www.wikidata.org/entity/Q193>	Saturn	411
+<http://www.wikidata.org/entity/Q35120>	entity	402
+<http://www.wikidata.org/entity/Q34>	Sweden	402
+<http://www.wikidata.org/entity/Q40050>	drink	398
+<http://www.wikidata.org/entity/Q262166>	municipality of Germany	387
+<http://www.wikidata.org/entity/Q17>	Japan	369
+<http://www.wikidata.org/entity/Q33999>	actor	368
+<http://www.wikidata.org/entity/Q484170>	commune of France	363
+<http://www.wikidata.org/entity/Q416860>	carminic acid	362
+<http://www.wikidata.org/entity/Q290828>	pyrophosphate anion	361
+<http://www.wikidata.org/entity/Q4830453>	business	357
+<http://www.wikidata.org/entity/Q46190676>	tennis event	349
+<http://www.wikidata.org/entity/Q361>	World War I	341
+<http://www.wikidata.org/entity/Q127367>	The Lord of the Rings: The Fellowship of the Ring	339
+<http://www.wikidata.org/entity/Q2537>	natural satellite	337
+<http://www.wikidata.org/entity/Q20895241>	Egon Willighagen	328
+<http://www.wikidata.org/entity/Q421991>	carrageenan	327
+<http://www.wikidata.org/entity/Q865>	Taiwan	324
+<http://www.wikidata.org/entity/Q190227>	sodium carbonate	322
+<http://www.wikidata.org/entity/Q4167836>	Wikimedia category	310
+<http://www.wikidata.org/entity/Q884>	South Korea	308
+<http://www.wikidata.org/entity/Q20980928>	Finn Årup Nielsen	306
+<http://www.wikidata.org/entity/Q68>	computer	305
+<http://www.wikidata.org/entity/Q179678>	monosodium L-glutamate	299
+<http://www.wikidata.org/entity/Q668294>	Kamerun	290
+<http://www.wikidata.org/entity/Q16521>	taxon	290
+<http://www.wikidata.org/entity/Q10943>	cheese	289
+<http://www.wikidata.org/entity/Q1028181>	painter	288
+<http://www.wikidata.org/entity/Q2252262>	rapper	287
+<http://www.wikidata.org/entity/Q5741069>	rock group	280
+<http://www.wikidata.org/entity/Q36834>	composer	278
+<http://www.wikidata.org/entity/Q2643890>	vocalist	278
+<http://www.wikidata.org/entity/Q3937>	supernova	273
+<http://www.wikidata.org/entity/Q5398426>	television series	272
+<http://www.wikidata.org/entity/Q14213>	United States Secretary of State	266
+<http://www.wikidata.org/entity/Q339975>	sodium nitrite	254
+<http://www.wikidata.org/entity/Q185583>	candy	254
+<http://www.wikidata.org/entity/Q482994>	album	252
+<http://www.wikidata.org/entity/Q193598>	DL-ascorbic acid	245
+<http://www.wikidata.org/entity/Q52947>	Gustav I of Sweden	243
+<http://www.wikidata.org/entity/Q139677>	operon	243
+<http://www.wikidata.org/entity/Q2934>	goat	241
+<http://www.wikidata.org/entity/Q16>	Canada	238
+<http://www.wikidata.org/entity/Q19546>	pope	230
+<http://www.wikidata.org/entity/Q10876391>	Wikipedia language edition	229
+<http://www.wikidata.org/entity/Q3624078>	sovereign state	229
+<http://www.wikidata.org/entity/Q525>	Sun	224
+<http://www.wikidata.org/entity/Q101352>	surname	224
+<http://www.wikidata.org/entity/Q380448>	Regulation (EC) No. 834/2007	221
+<http://www.wikidata.org/entity/Q32979516>	Una Osili	221
+<http://www.wikidata.org/entity/Q177823>	halal	220
+<http://www.wikidata.org/entity/Q636400>	Ashmolean Museum	216
+<http://www.wikidata.org/entity/Q50178404>	member of Kobe City Council	214
+<http://www.wikidata.org/entity/Q188154>	pectin	214
+<http://www.wikidata.org/entity/Q3309133>	Michel Bussi	213
+<http://www.wikidata.org/entity/Q82594>	computer scientist	209
+<http://www.wikidata.org/entity/Q7278>	political party	209
+<http://www.wikidata.org/entity/Q317070>	University of Mannheim	209
+<http://www.wikidata.org/entity/Q901>	scientist	209
+<http://www.wikidata.org/entity/Q762>	Leonardo da Vinci	206
+<http://www.wikidata.org/entity/Q720>	Genghis Khan	203
+<http://www.wikidata.org/entity/Q79007>	street	202
+<http://www.wikidata.org/entity/Q847>	tennis	201
+<http://www.wikidata.org/entity/Q12585>	Latin America	200
+<http://www.wikidata.org/entity/Q16707842>	Member of Parliament	200
+<http://www.wikidata.org/entity/Q4022>	river	199
+<http://www.wikidata.org/entity/Q7889>	video game	199
+<http://www.wikidata.org/entity/Q1281618>	sculptor	198
+<http://www.wikidata.org/entity/Q50804888>	Aleksandr Kogan	195
+<http://www.wikidata.org/entity/Q3464665>	television series season	191
+<http://www.wikidata.org/entity/Q42>	Douglas Adams	191
+<http://www.wikidata.org/entity/Q38>	Italy	190
+<http://www.wikidata.org/entity/Q173387>	grave	189
+<http://www.wikidata.org/entity/Q156737>	University of Kiel	188
+<http://www.wikidata.org/entity/Q159>	Russia	187
+<http://www.wikidata.org/entity/Q20>	Norway	186
+<http://www.wikidata.org/entity/Q1248784>	airport	184
+<http://www.wikidata.org/entity/Q34316>	Doctor Who	182
+<http://www.wikidata.org/entity/Q747074>	comune of Italy	180
+<http://www.wikidata.org/entity/Q212>	Ukraine	176
+<http://www.wikidata.org/entity/Q31>	Belgium	176
+<http://www.wikidata.org/entity/Q204873>	ammonium carbonate	175
+<http://www.wikidata.org/entity/Q178>	pasta	175
+<http://www.wikidata.org/entity/Q76>	Barack Obama	174
+<http://www.wikidata.org/entity/Q8495>	milk	173
+<http://www.wikidata.org/entity/Q2066131>	sportsperson	173
+<http://www.wikidata.org/entity/Q889>	Afghanistan	173
+<http://www.wikidata.org/entity/Q7432>	species	172
+<http://www.wikidata.org/entity/Q4964182>	philosopher	171
+<http://www.wikidata.org/entity/Q458>	European Union	170
+<http://www.wikidata.org/entity/Q170790>	mathematician	169
+<http://www.wikidata.org/entity/Q35657>	U.S. state	169
+<http://www.wikidata.org/entity/Q4915012>	biological pathway	168
+<http://www.wikidata.org/entity/Q60163>	Leo von Klenze	168
+<http://www.wikidata.org/entity/Q39715>	lighthouse	166
+<http://www.wikidata.org/entity/Q13219666>	tennis tournament	166
+<http://www.wikidata.org/entity/Q131669>	Linux distribution	165
+<http://www.wikidata.org/entity/Q410768>	Xanthan gum	165
+<http://www.wikidata.org/entity/Q116269>	silicon dioxide	163
+<http://www.wikidata.org/entity/Q668>	India	161
+<http://www.wikidata.org/entity/Q476028>	association football club	161
+<http://www.wikidata.org/entity/Q34770>	language	160
+<http://www.wikidata.org/entity/Q18939491>	diarist	159
+<http://www.wikidata.org/entity/Q11696>	President of the United States	159
+<http://www.wikidata.org/entity/Q3044918>	member of the French National Assembly	158
+<http://www.wikidata.org/entity/Q47443726>	recurring tennis tournament	157
+<http://www.wikidata.org/entity/Q57487>	Maria Barbara Bach	157
+<http://www.wikidata.org/entity/Q188451>	music genre	157
+<http://www.wikidata.org/entity/Q131480>	Camembert	155
+<http://www.wikidata.org/entity/Q4167410>	Wikimedia disambiguation page	154
+<http://www.wikidata.org/entity/Q486972>	human settlement	152
+<http://www.wikidata.org/entity/Q11867365>	polyphosphate	151
+<http://www.wikidata.org/entity/Q975485>	green dot	150
+<http://www.wikidata.org/entity/Q21102938>	Escherichia coli str. K-12 substr. MG1655	149
+<http://www.wikidata.org/entity/Q420093>	Brilliant Blue FCF	148
+<http://www.wikidata.org/entity/Q410744>	potassium sorbate	148
+<http://www.wikidata.org/entity/Q12376420>	Tartu Art Museum	148
+<http://www.wikidata.org/entity/Q6460572>	sodium citrates	144
+<http://www.wikidata.org/entity/Q45317649>	Asparagine N-linked glycosylation	144
+<http://www.wikidata.org/entity/Q9259>	UNESCO World Heritage Site	143
+<http://www.wikidata.org/entity/Q4989906>	monument	143
+<http://www.wikidata.org/entity/Q45317659>	Calnexin/calreticulin cycle	142
+<http://www.wikidata.org/entity/Q50296257>	Binding of Malectin	141
+<http://www.wikidata.org/entity/Q55>	Netherlands	141
+<http://www.wikidata.org/entity/Q50296274>	Deglycosylation complex hydrolyses N-glycans from unfolded glycoproteins	140
+<http://www.wikidata.org/entity/Q50296275>	ENGASE hydrolyses unfolded protein:(GlcNAc)2 (Man(9-5)	140
