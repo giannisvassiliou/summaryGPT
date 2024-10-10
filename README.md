@@ -18,3 +18,8 @@ ing these summaries we first extract the nodes appearing in query logs,
  order to enable active exploration of the corresponding user interests,
  allowing end-users to visualize how these evolve over time
 
+
+
+In code folder the .py file opens the seven out*.txt files with labels, and with the help of GPT translates them to categories (topics)
+
+# the api key should be updated and also since openAI changed its API some functions are outdated and maybe should re-written
